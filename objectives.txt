@@ -1,12 +1,11 @@
 
-📌 Project Objectives
+Project Objectives
 
 Part A — Beyond Blue Conversations
 	1.	Detect early signals of depressive and anxiety-related symptoms from online mental health discussions.
 	2.	Explore emotional and cognitive patterns in conversations through large language models and network analysis.
 	3.	Examine how users’ mental states change over time within community interactions.
 
-⸻
 
 Part B — Climate Overlay
 	1.	Investigate the relationship between natural disaster events and mental health expressions in Beyond Blue posts.
@@ -14,7 +13,7 @@ Part B — Climate Overlay
 	3.	Identify broader patterns of mental health signal shifts across different disaster types.
 
 
-📌 Expanded
+Expanded
 
 Part A — Beyond Blue Conversations (Baseline Analysis)
 	1.	Flatten and integrate user interactions by transforming original posts and comments into a single dataset where every text unit (post or comment) is treated as an entry, linked by user_id and parent_post_id.
@@ -22,7 +21,6 @@ Part A — Beyond Blue Conversations (Baseline Analysis)
 	3.	Apply LLMs, psycholinguistic features, and network analysis on the enriched dataset to identify cognitive and emotional patterns, including bridge symptoms that connect different mental health conditions (e.g., insomnia linking anxiety and depression).
 	4.	Conduct temporal analysis to track how individual users’ emotional states evolve over time, highlighting trajectories of deterioration, improvement, or stability across conversations.
 
-⸻
 
 Part B — Climate Overlay (Event-Based Analysis)
 	1.	Focus on original posts only, excluding comments, to create a clean dataset for climate analysis.
